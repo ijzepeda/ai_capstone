@@ -1,7 +1,7 @@
 # Fridge Masterchef - AI & ML Capstone W24
 
 <p align="center">
-  <img src="link_to_logo.png" alt="Fridge Masterchef Logo">
+  <img src="https://www.lifewire.com/thmb/eZgqnW0I2vJojQEzNLlvCiFyL-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-ha-ref-rf56k9540sr-family-hub-overview-5aa18f0e18ba010037c023a5.jpg" alt="Fridge Masterchef Logo">
 </p>
 
 <div align="center">
@@ -39,6 +39,33 @@ Welcome to Fridge Masterchef, where your kitchen meets cutting-edge technology! 
 Follow these steps to bring Fridge Masterchef to life on your system:
 
 ```bash
-git clone https://github.com/your-username/ai_capstone.git
+git clone https://github.com/ijzepeda-LC/ai_capstone
 cd ai_capstone
-# Additional setup steps, if any...
+
+## Usage
+
+**Scan Fridge Items:** Open the Fridge Masterchef app and scan your fridge items using your device's camera.
+
+**View Inventory:** Check the inventory to see a list of items and their quantities.
+
+**Get Recipe Suggestions:** Receive personalized recipe suggestions based on your fridge's content.
+
+Explore the [User Guide](docs/user-guide.md) for more detailed instructions.
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- OpenCV
+- Flask
+- SQLite
+
+For a complete list of technologies and libraries, refer to the [Technologies Used](docs/technologies.md) documentation.
+
+## Contributing
+
+🚀 We welcome contributions from the community! If you'd like to contribute to Fridge Masterchef, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
