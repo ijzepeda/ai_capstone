@@ -41,7 +41,7 @@ Follow these steps to bring Fridge Masterchef to life on your system:
 ```bash
 git clone https://github.com/ijzepeda-LC/ai_capstone
 cd ai_capstone
-
+```
 ## Usage
 
 **Scan Fridge Items:** Open the Fridge Masterchef app and scan your fridge items using your device's camera.
