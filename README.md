@@ -1,5 +1,5 @@
 # Recipix - AI & ML Capstone W24
-[![license](https://img.shields.io/github.com/ijzepeda-LC/ai_capstone/blob/main/LICENSE?style=flat-square)](LICENSE)
+[![license](https://img.shields.io/badge/License-blue)](LICENSE)
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)]([(https://github.com/ijzepeda-LC/ai_capstone/issues)])
 [![made with hearth by Preet](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Preet-ff1414.svg?style=flat-square)](https://github.com/git-preet)
