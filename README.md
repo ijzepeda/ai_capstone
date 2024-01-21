@@ -1,4 +1,4 @@
-# Fridge Masterchef - AI & ML Capstone W24
+# Recipix - AI & ML Capstone W24
 
 <p align="center">
   <img src="https://www.lifewire.com/thmb/eZgqnW0I2vJojQEzNLlvCiFyL-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-ha-ref-rf56k9540sr-family-hub-overview-5aa18f0e18ba010037c023a5.jpg" alt="Fridge Masterchef Logo">
@@ -22,7 +22,7 @@
 
 ## Introduction
 
-Welcome to Fridge Masterchef, where your kitchen meets cutting-edge technology! 🌟 The project revolutionizes your cooking experience by intelligently managing your fridge's contents. Scan, identify, and get personalized recipe suggestions based on your ingredients.
+Welcome to Recipix, where your kitchen meets cutting-edge technology! 🌟 The project revolutionizes your cooking experience by intelligently managing your fridge's contents. Scan, identify, and get personalized recipe suggestions based on your ingredients.
 
 ## Key Features
 
@@ -65,6 +65,9 @@ For a complete list of technologies and libraries, refer to the [Technologies Us
 ## Contributing
 
 🚀 We welcome contributions from the community! If you'd like to contribute to Fridge Masterchef, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+<p align="center">
+  <img src="https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1664843339/LG_smart_refigerator_review_zsenrg">
+</p>
 
 ## License
 
