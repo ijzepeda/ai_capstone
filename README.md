@@ -6,6 +6,8 @@
 [![made with hearth by Ivan](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Ivan-ff1414.svg?style=flat-square)](https://github.com/ijzepeda-LC)
 [![made with hearth by Erwin](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Erwin-ff1414.svg?style=flat-square)](https://github.com/gelnomo)
 [![made with hearth by Mahakdeep](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Mahakdeep-ff1414.svg?style=flat-square)](https://github.com/mahakdeepkaur)
+[![made with hearth by Mahakdeep](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Aparna-ff1414.svg?style=flat-square)](https://github.com/AparnaVinit)
+
 
 <p align="center">
   <img src="https://www.lifewire.com/thmb/eZgqnW0I2vJojQEzNLlvCiFyL-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-ha-ref-rf56k9540sr-family-hub-overview-5aa18f0e18ba010037c023a5.jpg" alt="Fridge Masterchef Logo">
