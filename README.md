@@ -7,7 +7,7 @@
 [![made with hearth by Erwin](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Erwin-ff1414.svg?style=flat-square)](https://github.com/gelnomo)
 [![made with hearth by Mahakdeep](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Mahakdeep-ff1414.svg?style=flat-square)](https://github.com/mahakdeepkaur)
 [![made with hearth by Aparna](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Aparna-ff1414.svg?style=flat-square)](https://github.com/AparnaVinit)
-[![made with hearth by Camilo](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Aparna-ff1414.svg?style=flat-square)](https://github.com/ceflorezrojas
+[![made with hearth by Camilo](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-Camilo-ff1414.svg?style=flat-square)](https://github.com/ceflorezrojas
 )
 
 
