@@ -497,3 +497,23 @@ def _format_output(heading, folder, extra=''):
             line = ' {0:<{hwid}} {1}'.format(heading, folder, hwid=hwidth - 2)
 
     return line
+
+def ffix_fn(title):
+    title = re.sub(r'[\\/\%\$\.#=\';,"\*\?\+|~<>]', r'_', title)
+
+    while title[-1] == ".":
+        title = title[:-1]
+
+    title = re.sub(r'\&', '_and_', title)
+
+    title = re.sub(r'[:]', r'-', title)
+
+    title = title.replace(' ', '_')
+
+    while '  ' in title:
+        title = re.sub(r'  ', r' ', title)
+
+    while '__' in title:
+        title = re.sub(r'__', r'_', title)
+
+    return title
